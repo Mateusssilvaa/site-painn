@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body{
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid white;
+}
+
+.header-h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 43px;
+    color: #E13043;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.header-img{
+    width: 60px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.menu-ul{
+    list-style: none;
+    display: none;
+}
+
+.sec1{
+    background-image: url(../imagens/pain_2015xxx_files/pain-juntos.width-1920.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    width: 100vw;
+
+}
+
+.texto-p{
+    color:rgba(248, 232, 232, 0.997);
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.texto{
+    width: 90vw;
+    background-color: rgba(0, 0, 0, 0.426);
+    margin: auto;
+}
+.sec-h2{
+    font-family: sans-serif;
+    font-size: 43px;
+    color: #E13043;
+    text-align: center;
+    margin: 40px;
+    border-bottom: 2px solid white;
+}
+
+.mylon{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imagens/PaiN_Mylon.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 4px solid white;
+}
+
+
+.sirt{
+    background-image:url(../imagens/PaiN_SirT.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 4px solid white;
+}
+
+
+.kami{
+    background-image: url(../imagens/paiN_Kami.webp);
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 4px solid white;
+}
+
+
+
+.brtt{
+    background-image: url(../imagens/paiN_BRTT.jpg);
+    width: 200px;
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 4px solid white;
+}
+
+
+.dioud{
+    background-image: url(../imagens/dioud_pain.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 4px solid white;
+}
+
+.sec3{
+    background-image:url(../imagens/pain2015kk.jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    width: 100vw;
+    height: 94vh;
+    margin-top: 30px;
+}
+
+.sec3-texto{
+    background-color: rgba(0, 0, 0, 0.392);
+    height: 100vh;
+}
+
+.sec-3-p{
+    color:rgba(248, 232, 232, 0.997);
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+    width:90vw ;
+    height: 30vh;
+
+}
